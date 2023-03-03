@@ -5,5 +5,5 @@
 - [Huawei - HCIA-AI](/010102001808830491602698.pdf)
 
 # Additional - I have completed the following courses:
-- [The Unix Workbench]https://www.coursera.org/learn/unix)
+- [The Unix Workbench](https://www.coursera.org/learn/unix)
 - [DeepLearning.AI, Stanford - Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning)
